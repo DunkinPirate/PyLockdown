@@ -76,6 +76,7 @@ This software is for educational use only.
 def main():
     Boot().Banner()
     Boot().SetKey()
+    Boot().Menu()
 
 if __name__ == "__main__":
     main()
